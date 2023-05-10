@@ -10,3 +10,8 @@ Para hacer que Git se active y escuche cambios:
 6)Para volver a agregar actualizacion del codigo a GitHub se inicia con el paso 3, luego el 4 y luego "git push"
 
 
+PARA CLONAR UN REPOSITORIO
+
+1) Se abre la consola con GitBash here y se pone: git clone y el link del repositorio q queremos clonar.
+
+Si quisiera actualizar a los ultimos cambios de un repositorio q ya cloné se usa: "git pull"
