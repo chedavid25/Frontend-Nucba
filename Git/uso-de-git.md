@@ -15,3 +15,4 @@ PARA CLONAR UN REPOSITORIO
 1) Se abre la consola con GitBash here y se pone: git clone y el link del repositorio q queremos clonar.
 
 Si quisiera actualizar a los ultimos cambios de un repositorio q ya cloné se usa: "git pull"
+
